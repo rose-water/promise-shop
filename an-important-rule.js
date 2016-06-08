@@ -21,3 +21,6 @@ Q.fcall(iterate, 1)
 	.then(iterate)
 	.then(iterate)
 	.then(null, console.log);
+
+	// note about the bonus:
+	// ran into this same question https://github.com/stevekane/promise-it-wont-hurt/issues/22
